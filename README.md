@@ -1,6 +1,1 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=moshi4&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshi4&layout=compact" />
-</a>
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=moshi4)
