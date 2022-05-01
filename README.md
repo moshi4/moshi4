@@ -7,13 +7,13 @@
 
 #### Bioinformatics
 
-<a href="https://github.com/moshi4/MGCplotter"><img alt="moshi4/MGCplotter" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=MGCplotter&" width=370></a>
-<a href="https://github.com/moshi4/GBKviz"><img alt="moshi4/GBKviz" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=GBKviz&" width=370></a>
-<a href="https://github.com/moshi4/COGclassifier"><img alt="moshi4/COGclassifier" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=COGclassifier" width=370></a>
-<a href="https://github.com/moshi4/ANIclustermap"><img alt="moshi4/ANIclustermap" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=ANIclustermap" width=370></a>
-<a href="https://github.com/moshi4/FastDTLmapper"><img alt="moshi4/FastDTLmapper" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=FastDTLmapper" width=370></a>
-<a href="https://github.com/moshi4/plot_genome_align_fig"><img alt="moshi4/plot_genome_align_fig" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=plot_genome_align_fig" width=370></a>
+<a href="https://github.com/moshi4/MGCplotter"><img alt="moshi4/MGCplotter" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=MGCplotter&" width=320></a>
+<a href="https://github.com/moshi4/GBKviz"><img alt="moshi4/GBKviz" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=GBKviz&" width=320></a>
+<a href="https://github.com/moshi4/COGclassifier"><img alt="moshi4/COGclassifier" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=COGclassifier" width=320></a>
+<a href="https://github.com/moshi4/ANIclustermap"><img alt="moshi4/ANIclustermap" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=ANIclustermap" width=320></a>
+<a href="https://github.com/moshi4/FastDTLmapper"><img alt="moshi4/FastDTLmapper" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=FastDTLmapper" width=320></a>
+<a href="https://github.com/moshi4/plot_genome_align_fig"><img alt="moshi4/plot_genome_align_fig" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=plot_genome_align_fig" width=320></a>
 
 #### Contribute
 
-<a href="https://github.com/ponnhide/pyCircos"><img alt="ponnhide/pyCircos" src="https://github-readme-stats.vercel.app/api/pin/?username=ponnhide&repo=pyCircos&show_owner=true" width=370></a>
+<a href="https://github.com/ponnhide/pyCircos"><img alt="ponnhide/pyCircos" src="https://github-readme-stats.vercel.app/api/pin/?username=ponnhide&repo=pyCircos&show_owner=true" width=320></a>
