@@ -7,6 +7,7 @@
 
 #### Bioinformatics
 
+<a href="https://github.com/moshi4/pyGenomeViz"><img alt="moshi4/pyGenomeViz" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=pyGenomeViz&" width=350></a>
 <a href="https://github.com/moshi4/MGCplotter"><img alt="moshi4/MGCplotter" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=MGCplotter&" width=350></a>
 <a href="https://github.com/moshi4/GBKviz"><img alt="moshi4/GBKviz" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=GBKviz&" width=350></a>
 <a href="https://github.com/moshi4/COGclassifier"><img alt="moshi4/COGclassifier" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=COGclassifier" width=350></a>
