@@ -4,7 +4,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshi4&theme=vue&layout=compact&hide=roff" height=150/>
 </a>
-
+<!-- 
 #### Bioinformatics
 
 <a href="https://github.com/moshi4/pyGenomeViz"><img alt="moshi4/pyGenomeViz" src="https://github-readme-stats.vercel.app/api/pin/?username=moshi4&repo=pyGenomeViz&" width=350></a>
@@ -17,3 +17,4 @@
 #### Contribute
 
 <a href="https://github.com/ponnhide/pyCircos"><img alt="ponnhide/pyCircos" src="https://github-readme-stats.vercel.app/api/pin/?username=ponnhide&repo=pyCircos&show_owner=true" width=350></a>
+ -->
